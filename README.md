@@ -1,4 +1,4 @@
-Gitbook
+**Gitbook Notebook Series**
 
 [Windows, Linux, and Active Directory CTF Notes for penetration testing](https://iptracej.gitbook.io/windows-linux-and-active-directory-ctf-notes)
 ---
