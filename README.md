@@ -3,11 +3,12 @@
 [Windows, Linux, and Active Directory CTF Notes for penetration testing](https://iptracej.gitbook.io/windows-linux-and-active-directory-ctf-notes)
 
 Click the link above to access the note.
+
 ---
 
 # Table of Content
 
-Word of Wisdom&#x20;
+Word of Wisdom
 
 Enumeration
 
@@ -19,7 +20,7 @@ Linux Privilege Escalation
 
 Credential Access
 
-Pivoting&#x20;
+Pivoting
 
 File Transfer
 
@@ -35,7 +36,7 @@ Unix Commands
 
 Code Analysis
 
-Reverse Shell&#x20;
+Reverse Shell
 
 Remote Access and Lateral Movement
 
