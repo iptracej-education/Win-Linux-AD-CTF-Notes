@@ -2,7 +2,7 @@
 
 [Windows, Linux, and Active Directory CTF Notes for penetration testing](https://iptracej.gitbook.io/windows-linux-and-active-directory-ctf-notes)
 
-Click the link above to access the note.
+This book is used to reference comamnd lines in real world CTF competitions and a real penetesting engagement. 
 
 ---
 
